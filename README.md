@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **a web-app similar to WhatsApp, Telegram**
-
 - 🌱 I’m currently learning **react**
 
 - 👨‍💻 All of my projects are available at [https://avani-sethia.netlify.app/](https://avani-sethia.netlify.app/)
